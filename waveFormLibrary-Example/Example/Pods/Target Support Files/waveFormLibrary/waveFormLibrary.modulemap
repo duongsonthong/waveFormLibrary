@@ -1,0 +1,6 @@
+framework module waveFormLibrary {
+  umbrella header "waveFormLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

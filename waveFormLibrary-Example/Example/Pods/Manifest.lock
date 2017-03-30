@@ -1,0 +1,12 @@
+PODS:
+  - waveFormLibrary (1.0)
+
+DEPENDENCIES:
+  - waveFormLibrary (~> 1.0)
+
+SPEC CHECKSUMS:
+  waveFormLibrary: 37fb01c1e45c421c4383cf69721f925dbce98e09
+
+PODFILE CHECKSUM: a5a84711f3a07dccd2b6a39e21d82fbcfd9b34c2
+
+COCOAPODS: 1.2.0
