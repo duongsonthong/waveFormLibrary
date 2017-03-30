@@ -1,4 +1,4 @@
-# Mp3WaveForm-Swift3
+# waveFormLibrary
 ![untitled](https://media.giphy.com/media/11Y9Ov7hwuplQY/giphy.gif)
 
 # What's feature?
