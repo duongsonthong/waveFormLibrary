@@ -8,13 +8,15 @@
 - use swift 3 version
 # How to use?
 
-- create ControllerWaveForm view, provide frame and mp3 URL and then add to your view holder
-
-```swift
-        let mp3File = Bundle.main.path(forResource: "02", ofType: "mp3")
-        let url = URL(fileURLWithPath: mp3File!)
-        let waveFormFrame = CGRect(x: 0, y: view.frame.height*1/3, width: view.frame.width, height: view.frame.height*2/3)
-        let controllerWaveForm = ControllerWaveForm(frame: waveFormFrame, mp3Url: url)
-        view.addSubview(controllerWaveForm)
+- You want to add pod 'waveFormLibrary', '~> 1.0' similar to the following to your Podfile:
 ```
+target 'MyApp' do
+  pod 'waveFormLibrary', '~> 1.0'
+end
+```
+Then run a pod install inside your terminal, or from CocoaPods.app.
+
+Alternatively to give it a test run, run the command:
+
+pod try waveFormLibrary
 # waveFormLibrary
