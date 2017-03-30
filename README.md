@@ -8,7 +8,7 @@
 - use swift 3 version
 # How to use?
 
-- You want to add pod 'waveFormLibrary', '~> 1.0' similar to the following to your Podfile:
+- Install library : add pod 'waveFormLibrary', '~> 1.0' similar to the following to your Podfile:
 ```
 target 'MyApp' do
   pod 'waveFormLibrary', '~> 1.0'
@@ -16,9 +16,6 @@ end
 ```
 Then run a pod install inside your terminal, or from CocoaPods.app.
 
-Alternatively to give it a test run, run the command:
-
-pod try waveFormLibrary
 - Use storyboard 
 
  -The first : add a UIView(which you want to hold waveform view) to your storyboard, in ```identity inspector``` change custom class to ```ControllerWaveForm``` class. 
