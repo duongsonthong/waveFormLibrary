@@ -35,9 +35,9 @@ Then run a pod install inside your terminal, or from CocoaPods.app.
    ```swift
    controller.setMp3Url(mp3Url: url)
    ```
-  -In this example I create mp3 url by copy file 02.mp3 to my project and the add below code
+  -In this example I create mp3 url by copy file 02.mp3 to my project and then add below code
    ```swift
    let mp3file = Bundle.main.path(forResource: "02", ofType: "mp3")
    let url = URL(fileURLWithPath: mp3file!)
    ```
-   - Please email me if you need help!
+   - Please email me thongds@gmail.com if you need help!
