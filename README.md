@@ -18,7 +18,7 @@ Then run a pod install inside your terminal, or from CocoaPods.app.
 
 - Use storyboard 
 
- -The first : add a UIView(which you want to hold waveform view) to your storyboard, in ```identity inspector``` change custom class to ```ControllerWaveForm``` class. 
+ -The first : add a UIView(which you want to hold waveform view) to your view, in ```identity inspector``` change custom class to ```ControllerWaveForm``` class. 
  
 ![untitled](https://cloud.githubusercontent.com/assets/8258900/24530426/09b3681e-15dc-11e7-86e9-779083796318.png
 )
