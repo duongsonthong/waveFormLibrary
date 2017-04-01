@@ -3,7 +3,7 @@
 
 # What's feature?
 - draw waveform of mp3 file on screen
-- draw line of playing position
+- draw current play position
 - zoom-in and zoom-out waveform while playing
 - use swift 3 version
 # How to use?
@@ -31,7 +31,7 @@ Then run a pod install inside your terminal, or from CocoaPods.app.
   ```swift
    @IBOutlet weak var controller: ControllerWaveForm!
    ```
-   set mp3 url to your waveForm
+   set mp3 url which you need draw waveform
    ```swift
    controller.setMp3Url(mp3Url: url)
    ```
