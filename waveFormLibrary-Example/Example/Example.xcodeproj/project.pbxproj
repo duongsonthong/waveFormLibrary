@@ -126,7 +126,7 @@
 				TargetAttributes = {
 					5C23D4021E8D746E00811858 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 89TP3C25P2;
+						DevelopmentTeam = TC94LX69WU;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -339,7 +339,7 @@
 			baseConfigurationReference = 494C13A016055E69BF323DE6 /* Pods-Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 89TP3C25P2;
+				DEVELOPMENT_TEAM = TC94LX69WU;
 				INFOPLIST_FILE = Example/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = sip.Example;
@@ -353,7 +353,7 @@
 			baseConfigurationReference = 892CB64AA25C676706D25AFD /* Pods-Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 89TP3C25P2;
+				DEVELOPMENT_TEAM = TC94LX69WU;
 				INFOPLIST_FILE = Example/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = sip.Example;

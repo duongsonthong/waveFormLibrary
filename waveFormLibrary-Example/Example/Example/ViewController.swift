@@ -10,6 +10,7 @@ import UIKit
 import waveFormLibrary
 class ViewController: UIViewController {
 
+   
     @IBOutlet weak var waveFormController: ControllerWaveForm!
     override func viewDidLoad() {
         super.viewDidLoad()
